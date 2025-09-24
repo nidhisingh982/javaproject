@@ -97,7 +97,7 @@ Exit
 You can now navigate the menu and test all features.
 screenshot for eclipse download
 ![image alt](https://github.com/nidhisingh982/javaproject/blob/6fcbbc9bc82f1bdfa0f1a926ef6061f0b89a501c/Screenshot%202025-09-24%20232648.png)
-
+![image alt](https://github.com/nidhisingh982/javaproject/blob/8ea7e25faf3c2c4fe1c1661c69b893d8daa49b4e/Screenshot%202025-09-24%20232726.png)
 8.Mapping table: syllabus topic → file/class/method where it’s demonstrated.
 Encapsulation	-> Student.java
 Inheritance ->	Person.java → Student.java, Instructor.java
