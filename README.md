@@ -49,6 +49,7 @@ Java(TM) SE Runtime Environment (build 24.0.2+12-54)
 Java HotSpot(TM) 64-Bit Server VM (build 24.0.2+12-54, mixed mode)
 Optionally, verify the compiler:
 javac --version
+![image alt](https://github.com/nidhisingh982/javaproject/blob/99bf9161d29693285643082f35cccad2b2e42a73/Screenshot%202025-09-24%20231504.png)
 ![image alt](
 Step 5: Configure Eclipse IDE (Optional)
 Install Eclipse IDE for Java Developers from Eclipse Downloads
