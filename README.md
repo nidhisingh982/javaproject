@@ -51,6 +51,7 @@ Optionally, verify the compiler:
 javac --version
 ![image alt](https://github.com/nidhisingh982/javaproject/blob/99bf9161d29693285643082f35cccad2b2e42a73/Screenshot%202025-09-24%20231504.png)
 ![image alt](https://github.com/nidhisingh982/javaproject/blob/df956157666a7692dae26ac15c1b58e3220ebbef/Screenshot%202025-09-24%20232155.png)
+![image alt](https://github.com/nidhisingh982/javaproject/blob/5205d22cf3dbcfc6a895e23b75d0adc4fcf80904/Screenshot%202025-09-24%20232556.png)
 ![image alt](
 Step 5: Configure Eclipse IDE (Optional)
 Install Eclipse IDE for Java Developers from Eclipse Downloads
