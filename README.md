@@ -104,7 +104,7 @@ screenshot for eclipse download
 ![image alt](https://github.com/nidhisingh982/javaproject/blob/ea2638ca492b52d85d25f9582ce124d6f2a37f73/Screenshot%202025-09-14%20011934.png)
 ![image alt](https://github.com/nidhisingh982/javaproject/blob/ba8571b188ab9fd5c5b7b8eef7cb4bfe6b9b7179/Screenshot%202025-09-14%20012040.png)
 ![image alt](https://github.com/nidhisingh982/javaproject/blob/76a2c303bc75ce6e2583c7f756a546ca707b0159/Screenshot%202025-09-14%20012126.png)
-![image alt](
+![image alt](https://github.com/nidhisingh982/javaproject/blob/f269f063c2d0b5f44ba650f6f04bf062ef0a5bd1/Screenshot%202025-09-14%20012334.png)
 8.Mapping table: syllabus topic → file/class/method where it’s demonstrated.
 Encapsulation	-> Student.java
 Inheritance ->	Person.java → Student.java, Instructor.java
