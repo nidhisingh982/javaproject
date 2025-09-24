@@ -53,6 +53,7 @@ javac --version
 ![image alt](https://github.com/nidhisingh982/javaproject/blob/df956157666a7692dae26ac15c1b58e3220ebbef/Screenshot%202025-09-24%20232155.png)
 ![image alt](https://github.com/nidhisingh982/javaproject/blob/5205d22cf3dbcfc6a895e23b75d0adc4fcf80904/Screenshot%202025-09-24%20232556.png)
 ![image alt](https://github.com/nidhisingh982/javaproject/blob/713e46ae8a7f0989f9b12374f751e19492881b03/Screenshot%202025-09-24%20232624.png)
+![image alt](https://github.com/nidhisingh982/javaproject/blob/4d342a83e02efc730190de734bed01e92b25fd46/Screenshot%202025-09-24%20232254.png)
 Step 5: Configure Eclipse IDE (Optional)
 Install Eclipse IDE for Java Developers from Eclipse Downloads
 Launch Eclipse → File → New → Java Project → set project name → Finish.
