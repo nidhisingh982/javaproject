@@ -102,6 +102,7 @@ screenshot for eclipse download
 ![image alt](https://github.com/nidhisingh982/javaproject/blob/ff2f96606cd1a3feadfe6c817ea3bef3cd6770c1/Screenshot%202025-09-24%20232817.png)
 ![image alt](https://github.com/nidhisingh982/javaproject/blob/803965550dfb31b528f9406f866787c121ca5664/Screenshot%202025-09-14%20011806.png)
 ![image alt](https://github.com/nidhisingh982/javaproject/blob/ea2638ca492b52d85d25f9582ce124d6f2a37f73/Screenshot%202025-09-14%20011934.png)
+![image alt](https://github.com/nidhisingh982/javaproject/blob/ba8571b188ab9fd5c5b7b8eef7cb4bfe6b9b7179/Screenshot%202025-09-14%20012040.png)
 ![image alt](
 8.Mapping table: syllabus topic → file/class/method where it’s demonstrated.
 Encapsulation	-> Student.java
