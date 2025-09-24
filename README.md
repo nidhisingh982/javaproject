@@ -95,6 +95,8 @@ Import / Export Data
 Backup & Reports
 Exit
 You can now navigate the menu and test all features.
+screenshot for eclipse download
+![image alt](
 8.Mapping table: syllabus topic → file/class/method where it’s demonstrated.
 Encapsulation	-> Student.java
 Inheritance ->	Person.java → Student.java, Instructor.java
