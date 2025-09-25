@@ -24,7 +24,7 @@ JRE → JVM + standard libraries (for running programs).
 JDK → JRE + development tools (compiler, debugger, etc).
 6.Windows install steps (with your screenshots) and Eclipse setup steps(with screenshots).
 Installing & Configuring Java on Windows
-Step 1: Download the JDK
+Step 1 : Download the JDK
 Open a browser and go to Oracle JDK Downloads or Adoptium
 Select the latest Java SE Development Kit (JDK) version (e.g., JDK 24 or 17 LTS).
 Download the Windows x64 Installer (.exe).
@@ -107,7 +107,7 @@ screenshot for eclipse download
 ![image alt](https://github.com/nidhisingh982/javaproject/blob/f269f063c2d0b5f44ba650f6f04bf062ef0a5bd1/Screenshot%202025-09-14%20012334.png)
 ->Running of a code example: with exporting them to git hub
 ![image alt](https://github.com/nidhisingh982/javaproject/blob/9e0543f9624602800221e22de65a20c4ba18f039/Screenshot%202025-09-25%20120247.png)
-![image alt](
+![image alt](https://github.com/nidhisingh982/javaproject/blob/e7ee9effcd11ef9c7724797c424e9e954f06e12b/Screenshot%202025-09-25%20120258.png)
 8.Mapping table: syllabus topic → file/class/method where it’s demonstrated.
 Encapsulation	-> Student.java
 Inheritance ->	Person.java → Student.java, Instructor.java
