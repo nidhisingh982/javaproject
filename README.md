@@ -109,6 +109,7 @@ screenshot for eclipse download
 ![image alt](https://github.com/nidhisingh982/javaproject/blob/9e0543f9624602800221e22de65a20c4ba18f039/Screenshot%202025-09-25%20120247.png)
 ![image alt](https://github.com/nidhisingh982/javaproject/blob/e7ee9effcd11ef9c7724797c424e9e954f06e12b/Screenshot%202025-09-25%20120258.png)
 8.Mapping table: syllabus topic → file/class/method where it’s demonstrated.
+![image alt](https://github.com/nidhisingh982/javaproject/blob/b78ac6bdadaa1c582acf4e2b1c023f204475fb66/Screenshot%202025-09-25%20171217.png)
 Encapsulation	-> Student.java
 Inheritance ->	Person.java → Student.java, Instructor.java
 Polymorphism-> TranscriptService interface + implementation
